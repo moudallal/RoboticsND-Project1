@@ -14,7 +14,7 @@ The requirements of this project were met as approved by Udacity's reviewers.
 
 ## Screenshots
 
-Find the following images showing the a few details of the project.
+Find the following images showing a few details of the project.
 
 ![](https://i.imgur.com/4fySJjQ.png)
 <p align = "center"><b>Fig.1 - Gazebo World View</b></p>
