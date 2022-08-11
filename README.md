@@ -1,5 +1,5 @@
 # RoboticsND: Project #1
-This repository contains the files for Udacity's Robotics Nanodegree's First Project
+This repository contains the files for Udacity's Robotics Nanodegree's First Project.
 
 Find Udacity's Robotics Software Engineering Nanodegree [here](https://www.udacity.com/course/robotics-software-engineer--nd209).
 
